@@ -3,8 +3,8 @@
 
 This is a simple project using abstraction and inheritance to simulate different drinks
 
-| Class | class type |
-| --- | --- |
+| Class | Parentclass | Subclasses | Description |
+| --- | --- | --- | --- |
 
 | Method | Description |
 | --- | --- |

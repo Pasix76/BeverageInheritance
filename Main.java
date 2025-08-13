@@ -21,7 +21,11 @@ public class Main {
       currentML = maxCapacity;
     }
     
-    public void drink() {}
+    public void drink() {
+      int amount = currentML;
+      currentML -= currentML;
+      System.out.println("You drank " + amount + "ml");
+    }
     
     public void drink(int ml) {}
     
